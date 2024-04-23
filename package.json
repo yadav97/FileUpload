@@ -10,6 +10,6 @@
   "author": "krishna yadav",
   "license": "ISC",
   "dependencies": {
-    "formidable": "^1.0.2"
+    "formidable": "^3.2.4"
   }
 }
